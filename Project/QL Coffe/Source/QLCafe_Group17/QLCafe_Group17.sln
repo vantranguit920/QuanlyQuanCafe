@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLCafe_Group17", "QLCafe_Group17\QLCafe_Group17.csproj", "{D921DDD7-D6A2-408A-B611-AE3DD76EB500}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAO", "DAO", "{47A91774-C775-4101-BF2A-BF8E240F29F0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DTO", "DTO", "{F7D3BF44-C6FE-4107-AD9E-0DE5AA41C62D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BUS", "BUS", "{9EA71D09-A619-4FA5-A754-128B595FEF23}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GUI", "GUI", "{A92FC8AB-FB9F-4C24-86CD-6AF9C999B471}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{1CEC663E-5349-4758-BCC6-52614848E01D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAO", "DAO\DAO.csproj", "{A7310068-B07C-4B05-900F-A37521D81D7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D921DDD7-D6A2-408A-B611-AE3DD76EB500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D921DDD7-D6A2-408A-B611-AE3DD76EB500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D921DDD7-D6A2-408A-B611-AE3DD76EB500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D921DDD7-D6A2-408A-B611-AE3DD76EB500}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CEC663E-5349-4758-BCC6-52614848E01D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CEC663E-5349-4758-BCC6-52614848E01D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CEC663E-5349-4758-BCC6-52614848E01D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CEC663E-5349-4758-BCC6-52614848E01D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7310068-B07C-4B05-900F-A37521D81D7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7310068-B07C-4B05-900F-A37521D81D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7310068-B07C-4B05-900F-A37521D81D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7310068-B07C-4B05-900F-A37521D81D7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D921DDD7-D6A2-408A-B611-AE3DD76EB500} = {A92FC8AB-FB9F-4C24-86CD-6AF9C999B471}
+		{1CEC663E-5349-4758-BCC6-52614848E01D} = {F7D3BF44-C6FE-4107-AD9E-0DE5AA41C62D}
+		{A7310068-B07C-4B05-900F-A37521D81D7A} = {47A91774-C775-4101-BF2A-BF8E240F29F0}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FDA457F-5151-4DBD-82FF-95FE3D6A88C4}
+	EndGlobalSection
+EndGlobal

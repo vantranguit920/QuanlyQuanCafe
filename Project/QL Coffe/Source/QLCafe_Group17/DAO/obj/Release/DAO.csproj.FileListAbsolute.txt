@@ -1,0 +1,26 @@
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\DAO\bin\Release\DAO.exe.config
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\DAO\bin\Release\DAO.exe
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\DAO\bin\Release\DAO.pdb
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\DAO\bin\Release\DTO.exe
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\DAO\bin\Release\DTO.pdb
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\DAO\bin\Release\DTO.exe.config
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\DAO\obj\Release\DAO.csprojAssemblyReference.cache
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\DAO\obj\Release\DAO.Properties.Resources.resources
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\DAO\obj\Release\DAO.csproj.GenerateResource.cache
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\DAO\obj\Release\DAO.csproj.CoreCompileInputs.cache
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\DAO\obj\Release\DAO.csproj.CopyComplete
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\DAO\obj\Release\DAO.exe
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\DAO\obj\Release\DAO.pdb
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\DAO\bin\Release\DAO.exe.config
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\DAO\bin\Release\DAO.exe
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\DAO\bin\Release\DAO.pdb
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\DAO\bin\Release\DTO.exe
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\DAO\bin\Release\DTO.pdb
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\DAO\bin\Release\DTO.exe.config
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\DAO\obj\Release\DAO.csprojAssemblyReference.cache
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\DAO\obj\Release\DAO.Properties.Resources.resources
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\DAO\obj\Release\DAO.csproj.GenerateResource.cache
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\DAO\obj\Release\DAO.csproj.CoreCompileInputs.cache
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\DAO\obj\Release\DAO.csproj.CopyComplete
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\DAO\obj\Release\DAO.exe
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\DAO\obj\Release\DAO.pdb

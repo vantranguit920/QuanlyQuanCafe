@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DAO.Ban_DAO">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAQAAAAAAAAgAAAAAAAAAABAAAAAQAAAIAQAAAA=</HashCode>
+      <FileName>Ban_DAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAO.CTHD_DAO">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAEAAAAABAAAAgQAAAAAAEBIA=</HashCode>
+      <FileName>CTHD_DAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAO.DBConect_DAO" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAQAAAAAQAAAAEAAEAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>DBConect_DAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAO.Form1" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAO.HoaDon_DAO">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAABAAAAAEAAAAABAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>HoaDon_DAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAO.Kho_DAO">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AOAAAAgAAAAAAAAAAAAAAAAAAgBAAAAAQAAAAgAAAAA=</HashCode>
+      <FileName>Kho_DAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAO.Login_DAO">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAQAQAAQAAAAAAA=</HashCode>
+      <FileName>Login_DAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAO.Nhansu_DAO">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAABABAAQAAQAAAAgAAEAA=</HashCode>
+      <FileName>Nhansu_DAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAO.Program">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAO.Sanpham_DAO">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAQAAAABAAAAAQAAAAAAEAAI=</HashCode>
+      <FileName>Sanpham_DAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAO.ThongKe_DAO">
+    <Position X="2.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAABAAAAgQAAAAAAAAAA=</HashCode>
+      <FileName>ThongKe_DAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAO.Properties.Resources">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAO.Properties.Settings">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

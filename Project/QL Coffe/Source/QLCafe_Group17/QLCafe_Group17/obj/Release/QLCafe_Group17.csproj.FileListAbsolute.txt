@@ -1,0 +1,86 @@
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\bin\Release\QLCafe_Group17.exe.config
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\bin\Release\QLCafe_Group17.exe
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\bin\Release\QLCafe_Group17.pdb
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\bin\Release\DAO.exe
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\bin\Release\DTO.exe
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\bin\Release\DAO.pdb
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\bin\Release\DAO.exe.config
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\bin\Release\DTO.pdb
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\bin\Release\DTO.exe.config
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.csprojAssemblyReference.cache
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frmQL.resources
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frmAddBan.resources
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frmAddNV.resources
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frmBan.resources
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frmDoiMk.resources
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frmGoiM.resources
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frminputkho.resources
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frmKho.resources
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frmLogin.resources
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frmNhansu.resources
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frmQLBan.resources
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frmQLmenu.resources
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frmThanhToan.resources
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frmThongKe.resources
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frmUpdateMenu.resources
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frmUpdateNV.resources
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.Properties.Resources.resources
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.UCBanII.resources
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.UCKhuVuc.resources
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.UCMenu.resources
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.UCMenuII.resources
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.UCNhanVien.resources
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.UCSpDG.resources
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.UCtable.resources
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.csproj.GenerateResource.cache
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.csproj.CoreCompileInputs.cache
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.csproj.CopyComplete
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.exe
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.pdb
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\bin\Release\QLCafe_Group17.exe.config
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\bin\Release\QLCafe_Group17.exe
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\bin\Release\QLCafe_Group17.pdb
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\bin\Release\DAO.exe
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\bin\Release\DTO.exe
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\bin\Release\DAO.pdb
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\bin\Release\DAO.exe.config
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\bin\Release\DTO.pdb
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\bin\Release\DTO.exe.config
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.csprojAssemblyReference.cache
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frmQL.resources
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frmAddBan.resources
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frmAddNV.resources
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frmBan.resources
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frmDoiMk.resources
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frmGoiM.resources
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frminputkho.resources
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frmKho.resources
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frmLogin.resources
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frmNhansu.resources
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frmOrder.resources
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frmQLBan.resources
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frmQLmenu.resources
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frmThanhToan.resources
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frmThongKe.resources
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frmUpdateMenu.resources
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frmUpdateNV.resources
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.Properties.Resources.resources
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.UCBanII.resources
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.UCKhuVuc.resources
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.UCMenu.resources
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.UCMenuII.resources
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.UCNhanVien.resources
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.UCorderII.resources
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.UCSpDG.resources
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.UCtable.resources
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.ULCOrder.resources
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.csproj.GenerateResource.cache
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.csproj.CoreCompileInputs.cache
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.csproj.CopyComplete
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.exe
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.pdb
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frmAddmenu.resources
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frmChuyenban.resources
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frmNhapkho.resources
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frmXoakho.resources
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\QLCafe_Group17\obj\Release\QLCafe_Group17.frmXuatkho.resources

@@ -1,0 +1,20 @@
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\DTO\bin\Release\DTO.exe.config
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\DTO\bin\Release\DTO.exe
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\DTO\bin\Release\DTO.pdb
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\DTO\obj\Release\DTO.csprojAssemblyReference.cache
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\DTO\obj\Release\DTO.Form1.resources
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\DTO\obj\Release\DTO.Properties.Resources.resources
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\DTO\obj\Release\DTO.csproj.GenerateResource.cache
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\DTO\obj\Release\DTO.exe
+C:\Users\LAM-PC\Desktop\15520920_15520877_15520087_15520591\Sourcode\QLCafe_Group17\DTO\obj\Release\DTO.pdb
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\DTO\bin\Release\DTO.exe.config
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\DTO\bin\Release\DTO.exe
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\DTO\bin\Release\DTO.pdb
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\DTO\obj\Release\DTO.csprojAssemblyReference.cache
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\DTO\obj\Release\DTO.Form1.resources
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\DTO\obj\Release\DTO.Properties.Resources.resources
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\DTO\obj\Release\DTO.csproj.GenerateResource.cache
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\DTO\obj\Release\DTO.exe
+C:\Users\LAM-PC\Desktop\Group17\QL Coffe\Source\QLCafe_Group17\DTO\obj\Release\DTO.pdb
